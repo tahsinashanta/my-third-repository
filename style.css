@@ -7,3 +7,8 @@ p{
 h1{
     background-color: black;
 }
+small{
+    background-color: bisque;
+}
+span{background-color: burlywood; color: aqua;
+}
